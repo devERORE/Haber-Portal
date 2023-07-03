@@ -1,3 +1,3 @@
 # Haber-Portal
 
-Temel işlevlerde bir haber sistemi.
+SQL bağlantılı temel işlevlerde bir haber sistemi.
